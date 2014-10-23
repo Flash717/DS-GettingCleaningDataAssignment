@@ -12,6 +12,7 @@ This repository contains following files:
 - README.md (this file): explains the content of this repository  
 - CodeBook.md: code book that describes the variables, the data and any transformations to create the final data set  
 - run_analysis.R: this script is to run the analysis and creates the tidy dataset  
+- tidy_dataset.txt: the resulting dataset, could not upload the file to Coursera. Thanks for your understanding!    
 
 <br>
 
